@@ -1,0 +1,29 @@
+Business Analytics In The Healthcare Industry
+Analytics is a statistical scientific process of discovering and presenting the meaningful patterns that can be found in data. While business analytics refers to the skills, technologies, applications, practices, computer programming and operations research for the continuous exploration of data to gain insight that drives business decisions.
+Business analytics technologyis helping healthcare organizations regulate existing data to improve clinical and business operations. In addition to this, analytics help to identify the symptoms of diseases in preliminary stages itself along with suggesting possible remedies for the same without any need of the intervention of a human being. With the help of analytics and chatbots patient can now look for expert doctor advice in the comfort of their home free of charge in most of the cases with as easy accessibility as one-touch from your smartphones.
+According to
+the survey conducted by Health Catalyst, a whopping 90% of the respondents
+admitted that analytics is going to be either “extremely important” or “very
+important” to their organization within the next few years. And the respondents
+also rated the importance of healthcare trends and the role played by analytics
+in them.
+Analytics is thus becoming very crucial in tracking different types of healthcare trends. Advanced analytics touches every aspect ofhealthcare software systemsincluding clinical, operational and financial sectors.
+The Role of Analytics in Transforming Healthcare
+Healthcare organizations have begun to adopt technologies like PACS imaging systems and EMRs or Electronic Health Records that attempts to make sense of the massive data that flows through the system (both structured and unstructured). Hence, it is important to know what are the tools that can extract information from the data to generate value and enjoy operational, financial and clinical insights.
+There are genome analyzers and other analytics tools in the market that help in understanding the facts, and eliminate unwanted/useless details to extract only what’s needed. The end result of this is better clinical outcomes for the patient. There are several ways in which healthcare organizations can make use of information collected through various sources.
+Disease Surveillance and Preventative ManagementDevelop Clinically Relevant and More Effective Diagnostic and Therapeutic TechniquesDevelopment of a Faster, Leaner, and More Productive R&D Pipeline
+Examples of business intelligence in healthcare
+The following examples indicate successful applications,
+built on a foundation of advanced analytical capabilities, in the healthcare
+industry:
+UnityPoint Health in Iowa: managed toreduce their risk-adjusted readmission rate by 40%over the course of three years in one of their pilot hospitals by utilizing predictive modeling via Business Intelligence software.Washington State Health Care Authority:reduced unnecessary ER visitsby implementing a Business Intelligence for the healthcare system to electronically integrate and distribute patient data across ER departments. Hospitals were able to identify patients who visited more frequently than others and share that patient’s information with other hospitals. This resulted in an overall reduction of frequent ER visits by 10%, a decrease in visits by frequent ER patients by 10.7%, and scheduled prescription allocation decreased by 24%.
+Predictive analytics is key to enabling hospitals to
+properly manage their readmission rates and sidestep costly penalties while
+simultaneously addressing important aspects of patient treatment and care.
+Analyticsare changing roles in the healthcare industry. An increasing number of informed patients are taking more responsibility for their own care. Likewise, physicians are finding more satisfaction with their positions as positive effects increase. More time spent with individual patients has increased which gives physicians the chance to form a trusted relationship with the patient. Physicians want to spend time with their patients – to know them, interact with them, and help them. When the time to develop a relationship is diminished, the physician is less satisfied with his or her profession.
+Analytics has
+changed the way the healthcare world operates. With the ability to
+transform the way medicine has been practiced for years, analytics have
+resulted in improved health, reduction in diseases, and more satisfied patients
+and physicians.
+Combine artificial intelligence with data analysisandmachine learning IoT, and it is easy to provide proactive care to patients. Hence, it would be a good move to invest in analytical solutions that can control and mitigate clinical and financial risks, with new payment bundles and models to go with it.
